@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Intenciones</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnWeb">Abrir web</string>
+    <string name="btnllamada">Realizar llamada</string>
+    <string name="btnMaps">Google Maps</string>
+    <string name="btnFoto">Tomar foto</string>
+    <string name="btnCorreo">Enviar correo</string>
+
+</resources>
